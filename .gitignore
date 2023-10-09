@@ -15,13 +15,12 @@
 .DS_Store
 .prettierignore
 
-*crew-engineer.html
-*crew-pilot.html
-*crew-specialist.html
-
-*destination-europa.html
-*destination-mars.html
-*destination-titan.html
-
-*technology-capsule.html
-*technology-Spaceport.html
+crew-engineer.html
+crew-engineer.html
+crew-pilot.html
+crew-specialist.html
+destination-europa.html
+destination-mars.html
+destination-titan.html
+technology-capsule.html
+technology-spaceport.html
